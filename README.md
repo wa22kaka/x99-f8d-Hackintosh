@@ -1,5 +1,5 @@
 # x99-f8d-Hackintosh
-dual cpu 
+dual cpu   
 1、update config.plist   
 2、update OpenCorePkg & Kexts to the latest.  
 3、support macOS Big Sur 11.6.1 & Monterey 12.0.1   
